@@ -19,6 +19,6 @@
 
 3. 如果你的数据存放在默认路径以外的位置，可以修改脚本中的路径变量：  
    ```bat
-   set QQdata=你想要备份的路径
-   set WeChatdata=你想要备份的路径
-   set QYWXdata=你想要备份的路径
+   set QQdata=自定义备份路径
+   set WeChatdata=自定义备份路
+   set QYWXdata=自定义备份路
