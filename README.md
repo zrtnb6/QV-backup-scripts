@@ -5,8 +5,8 @@
 脚本会检测7-Zip是否已安装（且在环境变量中），并根据用户选择备份指定数据。支持多选(使用空格分隔选项)和一键备份全部。
 
 ## 功能
-- "自动备份v1.bat"的备份路径为QQ备份\备份YYYYMMDDHHMM.zip，同时删除旧备份
-- "自动备份v2.bat"的备份路径为QQ备份\备份YYYYMMDDHHMM\备份YYYYMMDDHHMM.zip，同时保留旧备份
+- `自动备份v1.bat`的备份路径为QQ备份\备份YYYYMMDDHHMM.zip，同时删除旧备份
+- `自动备份v2.bat`的备份路径为QQ备份\备份YYYYMMDDHHMM\备份YYYYMMDDHHMM.zip，同时保留旧备份
 - 请根据习惯任选v1和v2其一即可
 
 ## 功能
