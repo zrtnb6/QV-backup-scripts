@@ -19,6 +19,7 @@
 ## 使用说明
 1. 请确保已安装7-Zip，并已将`7z.exe`加入系统环境变量PATH。  
    7-Zip官方下载地址：https://www.7-zip.org/
+
    添加系统环境变量教程：http://baidu.physton.com/?q=%E6%80%8E%E4%B9%88%E6%8A%8A7zip%E6%B7%BB%E5%8A%A0%E5%88%B0windows%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F
 
 3. 备份前请关闭QQ、微信及企业微信客户端，避免文件占用导致备份失败。  
